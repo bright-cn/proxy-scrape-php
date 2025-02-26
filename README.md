@@ -43,7 +43,7 @@ sudo a2enmod proxy_http
 sudo a2enmod proxy_connect
 ```
 
-然后，在 `/etc/apache2/sites-available/` 中将默认的虚拟主机配置文件 `000-default.conf` 复制一份并命名为 `proxy.conf`：
+然后，在 `/etc/apache2/sites-available/` 目录下，基于默认的虚拟主机配置文件 `000-default.conf` 复制并创建一个新的 [虚拟主机配置文件](https://httpd.apache.org/docs/2.4/vhosts/) `proxy.conf`：
 
 ```bash
 cd /etc/apache2/sites-available/
