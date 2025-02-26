@@ -7,7 +7,7 @@
   - [在 Apache 中设置本地代理服务器](#在-Apache-中设置本地代理服务器)
 - [在 PHP 中使用代理](#在-PHP-中使用代理)
   - [使用 cURL 集成代理](#使用-cURL-集成代理)
-  - [使用 `file_get_contents()` 集成代理](#使用-file_get_contents()-集成代理)
+  - [使用 `file_get_contents()` 集成代理](#使用-file_get_contents-集成代理)
   - [在 Symfony 中集成代理](#在-Symfony-中集成代理)
 - [在 PHP 中测试代理集成](#在-PHP-中测试代理集成)
 - [在 PHP 中集成 Bright Data 代理](#在-PHP-中集成-Bright-Data-代理)
